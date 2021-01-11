@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1544387772 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<ctime>
+
+1544210642 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\clearscreen.cpp
+	<iostream>
+	<cstdlib>
+
+1544270597 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\colours.cpp
+	<iostream>
+	<windows.h>
+
+1544378947 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\header.cpp
+	<iostream>
+
+1544387770 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\quit.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+
+1544295055 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\about.cpp
+	<iostream>
+	<conio.h>
+
+1544293796 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\mainscreen.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+
+1544524619 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\footer.cpp
+	<iostream>
+	<conio.h>
+
+1544210616 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\cinrecover.cpp
+	<iostream>
+
+1543734091 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\timer.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+
+1544466153 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\game.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+
+1544529090 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\name.cpp
+	<iostream>
+	<fstream>
+
+1543519489 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\previousscores.cpp
+
+1544528240 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\stats.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+
+1544387751 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\beattheclock.cpp
+	<iostream>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	<fstream>
+
+1544466463 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\classic.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+
+1543575489 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\score.cpp
+	<iostream>
+
+1544528288 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\comments.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+
+1544210512 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\savescore.cpp
+	<iostream>
+	<fstream>
+
+1544211112 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\scorefun.cpp
+	<iostream>
+
+1544295074 source:c:\users\wasee\onedrive - higher education commission\project\highlowgame\credits.cpp
+	<iostream>
+	<conio.h>
+
